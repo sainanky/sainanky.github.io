@@ -1346,3 +1346,11 @@ fieldset[disabled] .btn-theme {
     text-align: right;
   }
 }
+
+.w-15{
+  width: 15%;
+}
+
+.break-word{
+  word-break: break-word;
+}
