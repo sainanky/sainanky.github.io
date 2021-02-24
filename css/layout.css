@@ -1354,3 +1354,7 @@ fieldset[disabled] .btn-theme {
 .break-word{
   word-break: break-word;
 }
+
+.d-none{
+  display: none;
+}
