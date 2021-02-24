@@ -1350,6 +1350,9 @@ fieldset[disabled] .btn-theme {
 .w-15{
   width: 15%;
 }
+.w-100{
+  width: 100%;
+}
 
 .break-word{
   word-break: break-word;
