@@ -1,0 +1,114 @@
+[
+    {
+        "img" : "img/projects/finanvo.png", 
+        "company_name"  : "finanvo", 
+        "name"  : "Finanvo", 
+        "description" : "Over 10 lakh investors Finanvo for finding and tracking stock ideas, here you can search companies, directors, gst, trademark and other details.",
+        "link" : "https://finanvo.in/"
+    },
+    {
+        "img" : "img/projects/technowire_in.png", 
+        "company_name"  : "technowire", 
+        "name"  : "Technowire", 
+        "description" : "growth story by creating investment opportunities, enabling access and empowering our stakeholders. We work harder, smarter and faster to deliver impact across the investment ecosystem.",
+        "link" : "https://technowire.in/"
+    },
+    {
+        "img" : "img/projects/mca_download.png", 
+        "company_name"  : "mca download", 
+        "name"  : "MCA Download", 
+        "description" : "MCADownload eases user activity of downloading individual documents from MCA and provides company information organised in folders as per their categories.",
+        "link" : "https://mcadownload.com/"
+    },
+    {
+        "img" : "img/projects/discover.pokeify.com.png", 
+        "company_name"  : "discover.pokeify.com", 
+        "name"  : "discover.pokeify.com", 
+        "description" : "Discovery : Find your favorite influencer here. here you can find influncers of instagram, youtube and facebook.",
+        "link" : "https://discover.pokeify.com/"
+    },
+    {
+        "img" : "img/projects/search.pokeify.com.png", 
+        "company_name"  : "search.pokeify.com", 
+        "name"  : "search.pokeify.com", 
+        "description" : "Instagram Engagement Rate : You can analyze Instagram influencers based on their followers count, engagement on every post through the help of charts and box plot",
+        "link" : "https://search.pokeify.com/"
+    },
+    {
+        "img" : "img/pkfy_me.png", 
+        "company_name"  : "pkfy", 
+        "name"  : "pkfy.me", 
+        "description" : "Create your own link full of stories, Amazing way to manage your link in bio, Your #1 Universal Bio App",
+        "link" : "https://pkfy.me/"
+    },
+    {
+        "img" : "img/projects/value_at.png", 
+        "company_name"  : "value at", 
+        "name"  : "ValueAt", 
+        "description" : "ValueAt is used to manage company incorporation, company registration and growth evaluation.",
+        "link" : "https://valueat.in/"
+    },
+    {
+        "img" : "img/projects/pokeify.png", 
+        "company_name"  : "Pokeify", 
+        "name"  : "Pokeify", 
+        "description" : "Pokeify is a influncer marketing platform where we are connecting the dots between creators, storytellers and brand.",
+        "link" : "https://pokeify.com/"
+    },
+    {
+        "img" : "img/projects/vikuna.png", 
+        "company_name"  : "Vikuna", 
+        "name"  : "ContractNest", 
+        "description" : "Setup Contracts Service Plans. Milestone, automate Events.Focus on Building relationship and compliances.You’ll no longer have to use separate apps, or track offline in spreedhseets and notes.",
+        "link" : "http://www.contractnest.com/"
+    },
+    {
+        "img" : "img/projects/frontend.social.png", 
+        "company_name"  : "Frontend.Social", 
+        "name"  : "Frontend.Social", 
+        "description" : "Find frontend jobs, learn from courses, checkout online events and hangout with other devs and designers!.",
+        "link" : "https://www.frontend.social"
+    },
+    {
+        "img" : "img/projects/nicoza.png", 
+        "company_name"  : "Nicoza", 
+        "name"  : "Nicoza", 
+        "description" : "This is an ecommerce website for online products sale. It provides the user with a catalog of different products available for the purchase at store. In order to facilitate online purchase a shopping cart is provided to the user.",
+        "link" : "#"
+    },
+    {
+        "img" : "img/projects/componentlib.png", 
+        "company_name"  : "Componentlib", 
+        "name"  : "Componentlib", 
+        "description" : "ComponentLib is an open source effort to create a library of components of Web and Mobile technologies. To start with it will have list of components for React, React Native, Angular (2+), AngularJS (1.x), Vue and Ember components.",
+        "link" : "http://www.componentlib.org/"
+    },
+    {
+        "img" : "img/projects/veems.png", 
+        "company_name"  : "Veems Office", 
+        "name"  : "Veems Office", 
+        "description" : "VEEMS is a flexible, cost-effective, data-driven tool to assist the ship operators in monitoring and reaching maximum energy efficiency.",
+        "link" : "http://www.theviswagroup.com/veems.html"
+    },
+    {
+        "img" : "img/projects/fwa.png", 
+        "company_name"  : "FWB", 
+        "name"  : "FWB", 
+        "description" : "Your Friend With Benefits Inc. is a Canadian financial planning and insurance brokerage. We are brokers! Our job is to examine all the different possibilities and lead you into a future of stable growth.",
+        "link" : "https://www.yourfriendwithbenefits.ca/"
+    },
+    {
+        "img" : "img/bsa.png", 
+        "company_name"  : "BSA Graphics", 
+        "name"  : "BSA Graphics", 
+        "description" : "They are a new firm engaged in offering reliable solutions for Advertising Products & Services to our esteemed patrons.These services are acclaimed for their timely execution, flexibility and credibility.",
+        "link" : "http://bsagraphic.netii.net/"
+    },
+    {
+        "img" : "img/earning_tree.png", 
+        "company_name"  : "Earning Tree", 
+        "name"  : "Earning Tree", 
+        "description" : "Earning Tree A community of M.L.M Leaders & Traders who want to bring a revolution along with their most wonderful plan in the world.",
+        "link" : "http://faadudeveloper.netii.net/"
+    }
+]

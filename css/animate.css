@@ -3270,3 +3270,9 @@ Copyright (c) 2015 Daniel Eden
   -webkit-animation-name: slideOutUp;
   animation-name: slideOutUp;
 }
+
+#companies_list a.viewmore{
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: underline;
+}

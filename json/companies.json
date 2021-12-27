@@ -1,0 +1,38 @@
+[
+    {
+        "icon" : "./img/publicis-sapient.png", 
+        "name"  : "Publicis Sapient", 
+        "position" : "Software Associate", 
+        "description" : "I have been working here from 23rd August 2021 to Present as an Software Associate. here my role is to manage frontend part which is on html, scss/css, bootstrap, angular8, accessibility.",
+        "period" : "August 2021 - Present",
+        "location" : "Gurgoan, India",
+        "company_link" : "https://publicissapient.com/"
+    },
+    {
+        "icon" : "./img/pokeify_logo.png", 
+        "name"  : "Pplfy Analytics Pvt Ltd", 
+        "position" : "Software Associate", 
+        "description" : "I have been working here from 11th April 2019 to 22nd August 2021 as an Software Associate. here my role is to manage frontend part which is on html, scss/css, bootstrap, angular8, cognito auth and aws deployment.",
+        "period" : "April 2019 - August 2021",
+        "location" : "Gurgoan, India",
+        "company_link" : "https://pokeify.com/"
+    },
+    {
+        "icon" : "./img/qexon.png", 
+        "name"  : "Qexon Infotech Pvt Ltd", 
+        "position" : "Software Developer", 
+        "description" : "I have been appointed to softwate developer from intern here by July 2016 to Feb 2019. here am working as an full stack developer with Mean stack profile. my role is to manage project developement and deployment part.",
+        "period" : "July 2016 - Feb 2019",
+        "location" : "Noida, India",
+        "company_link" : "https://qexon.com/"
+    },
+    {
+        "icon" : "./img/qexon.png", 
+        "name"  : "Qexon Infotech Pvt Ltd", 
+        "position" : "Intern", 
+        "description" : "I have been working here from Feb 2016 to June 2019 as an intern. here am working as an intern traine where i can get more opportunity to learn javascript and php.",
+        "period" : "July 2016 - Feb 2019",
+        "location" : "Noida, India",
+        "company_link" : "https://qexon.com/"
+    }
+]
