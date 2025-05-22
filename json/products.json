@@ -7,20 +7,6 @@
         "link" : "https://pkfy.me/"
     },
     {
-        "img" : "img/projects/finanvo.png", 
-        "company_name"  : "finanvo", 
-        "name"  : "Finanvo", 
-        "description" : "Over 10 lakh investors Finanvo for finding and tracking stock ideas, here you can search companies, directors, gst, trademark and other details.",
-        "link" : "https://finanvo.in/"
-    },
-    {
-        "img" : "img/projects/technowire_in.png", 
-        "company_name"  : "technowire", 
-        "name"  : "Technowire", 
-        "description" : "growth story by creating investment opportunities, enabling access and empowering our stakeholders. We work harder, smarter and faster to deliver impact across the investment ecosystem.",
-        "link" : "https://technowire.in/"
-    },
-    {
         "img" : "img/projects/search.pokeify.com.png", 
         "company_name"  : "search.pokeify.com", 
         "name"  : "search.pokeify.com", 
@@ -33,20 +19,6 @@
         "name"  : "discover.pokeify.com", 
         "description" : "Discovery : Find your favorite influencer here. here you can find influncers of instagram, youtube and facebook.",
         "link" : "https://discover.pokeify.com/"
-    },
-    {
-        "img" : "img/projects/mca_download.png", 
-        "company_name"  : "mca download", 
-        "name"  : "MCA Download", 
-        "description" : "MCADownload eases user activity of downloading individual documents from MCA and provides company information organised in folders as per their categories.",
-        "link" : "https://mcadownload.com/"
-    },
-    {
-        "img" : "img/projects/value_at.png", 
-        "company_name"  : "value at", 
-        "name"  : "ValueAt", 
-        "description" : "ValueAt is used to manage company incorporation, company registration and growth evaluation.",
-        "link" : "https://valueat.in/"
     },
     {
         "img" : "img/projects/pokeify.png", 
